@@ -4,11 +4,12 @@ This is a tool intended to perform web scrappng on a website.
 
 ## REQUIREMENTS AND USAGE
 * Python 3
-* Beautifulsoup 
+* Beautifulsoup
+ 
 
-To install beautifulsoup, run
+To install all modules, run
 ```
-python3 -m pip install beautifulsoup
+python3 -m pip install beautifulsoup requests pprint
 ```
 
 To run script, do
